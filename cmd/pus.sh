@@ -1,5 +1,5 @@
 p=$(pwd)
-d=${p: -3}
+d=${p: -2}
 echo $d
 
 url=git@github.com:botaro/$d.git
